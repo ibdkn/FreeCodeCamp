@@ -3,7 +3,7 @@
 
 // Setup
 function testEqual(val) {
-    if (val) { // Change this line
+    if (val == 12) { // Change this line
         return "Equal";
     }
     return "Not Equal";
