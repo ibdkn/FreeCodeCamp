@@ -4,6 +4,7 @@
 
 function myLocalScope() {
     // Only change code below this line
+    let myVar;
 
     console.log('inside myLocalScope', myVar);
 }
