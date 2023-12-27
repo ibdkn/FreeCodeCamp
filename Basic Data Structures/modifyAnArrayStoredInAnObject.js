@@ -27,4 +27,4 @@ function addFriend(userObj, friend) {
     // Only change code above this line
 }
 
-console.log(addFriend(user, 'Pete'));
+console.log(addFriend(user, 'Pete'));z
