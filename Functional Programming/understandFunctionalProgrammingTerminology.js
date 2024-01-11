@@ -3,6 +3,7 @@
 // Note: The data (the number of cups of tea) is supplied as the last argument. We'll discuss this more in later lessons.
 
 // Function that returns a string representing a cup of green tea
+// Function that returns a string representing a cup of green tea
 const prepareGreenTea = () => "greenTea";
 
 // Function that returns a string representing a cup of black tea
